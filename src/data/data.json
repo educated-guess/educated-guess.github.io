@@ -1,136 +1,197 @@
 {
-    "Header": {
-
-        "title": "We are a Landing Page",
-        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
-
-    },
-    "About": {
-        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-        "Why": [
-            "Lorem ipsum dolor",
-            "Tempor incididunt",
-            "Lorem ipsum dolor",
-            "Incididunt ut labore"
-        ],
-        "Why2": [
-            "Aliquip ex ea commodo",
-            "Lorem ipsum dolor",
-            "Exercitation ullamco",
-            "Lorem ipsum dolor"
-        ]
-    },
-    "Services": [{
-            "icon": "fa fa-wordpress",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-        },
-        {
-            "icon": "fa fa-cart-arrow-down",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-        },
-        {
-            "icon": "fa fa-cloud-download",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-        },
-        {
-            "icon": "fa fa-language",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-        },
-        {
-            "icon": "fa fa-plane",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-        },
-        {
-            "icon": "fa fa-pie-chart",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-        }
-
-
+  "Header": {
+    "title": "EDucated Guess",
+    "paragraph": "No job is too small, so please take a look at the services offered and give me a call."
+  },
+  "About": {
+    "paragraph": "In an attempt to help seniors stay in place, I am focusing my services to the seniors community, and offering my services for $40 per hour, plus. expenses (as approved) and HST.",
+    "Why": [
+      "Fully Insured",
+      "Decades of experience",
+      "Reasonably priced",
+      "Faantastic hair"
     ],
-    "Testimonials": [{
-            "img": "img/testimonials/01.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "John Doe"
-        },
-        {
-            "img": "img/testimonials/02.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "Johnathan Doe"
-        },
-        {
-            "img": "img/testimonials/03.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "John Doe"
-        },
-        {
-            "img": "img/testimonials/04.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "Johnathan Doe"
-        },
-        {
-            "img": "img/testimonials/05.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "John Doe"
-        },
-        {
-            "img": "img/testimonials/06.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "Johnathan Doe"
-        }
-    ],
-    "Team": [{
-            "img": "img/team/01.jpg",
-            "name": "John Doe",
-            "job": "Director"
-        },
-        {
-            "img": "img/team/02.jpg",
-            "name": "Mike Doe",
-            "job": "Senior Designer"
-        }, {
-            "img": "img/team/03.jpg",
-            "name": "Jane Doe",
-            "job": "Senior Designer"
-        },
-        {
-            "img": "img/team/04.jpg",
-            "name": "Karen Doe",
-            "job": "Project Manager"
-        }
-    ],
-    "Contact": {
-        "address": "4321 California St, San Francisco, CA 12345 ",
-        "phone": "+1 123 456 1234",
-        "email": "info@company.com",
-        "facebook": "fb.com",
-        "twitter": "twitter.com",
-        "youtube": "youtube.com"
+    "Why2": []
+  },
+  "Services": [
+    {
+      "icon": "",
+      "name": "Painting",
+      "text": ""
     },
-    "Features": [{
-            "icon": "fa fa-comments-o",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-        },
-        {
-            "icon": "fa fa-bullhorn",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-        },
-        {
-            "icon": "fa fa-group",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-        },
-        {
-            "icon": "fa fa-magic",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-        }
-    ]
+    {
+      "icon": "",
+      "name": "replace baseboards",
+      "text": ""
+    },
+    {
+      "icon": "",
+      "name": "change light fixtures",
+      "text": ""
+    },
+    {
+      "icon": "",
+      "name": "change receptacles and switches",
+      "text": ""
+    },
+    {
+      "icon": "",
+      "name": "basic electrical work",
+      "text": ""
+    },
+    {
+      "icon": "",
+      "name": "bathroom reno's",
+      "text": ""
+    },
+    {
+      "icon": "",
+      "name": "tile work (floor, backsplash, shower etc)",
+      "text": ""
+    },
+    {
+      "icon": "",
+      "name": "yard work - misc",
+      "text": ""
+    },
+    {
+      "icon": "",
+      "name": "vinyl flooring installation",
+      "text": ""
+    },
+    {
+      "icon": "",
+      "name": "misc repair work",
+      "text": ""
+    },
+    {
+      "icon": "",
+      "name": "toilet replacement",
+      "text": ""
+    },
+    {
+      "icon": "",
+      "name": "sink/vanity replacement",
+      "text": ""
+    },
+    {
+      "icon": "",
+      "name": "home updating work for resale",
+      "text": ""
+    },
+    {
+      "icon": "",
+      "name": "door hardware replacement",
+      "text": ""
+    },
+    {
+      "icon": "",
+      "name": "laundry room upgrades (cabinets, sinks, flooring etc)",
+      "text": ""
+    },
+    {
+      "icon": "",
+      "name": "general installation work",
+      "text": ""
+    },
+    {
+      "icon": "",
+      "name": "assemble furniture, cabinets etc",
+      "text": ""
+    },
+    {
+      "icon": "",
+      "name": "counter top replacement",
+      "text": ""
+    },
+    {
+      "icon": "",
+      "name": "demo work",
+      "text": ""
+    },
+    {
+      "icon": "",
+      "name": "basement updates",
+      "text": ""
+    },
+    {
+      "icon": "",
+      "name": "power wash and stain decks and fences",
+      "text": ""
+    },
+    {
+      "icon": "",
+      "name": "tire replacement on site (winter and summer tires on rims)",
+      "text": ""
+    },
+    {
+      "icon": "",
+      "name": "Project Management for larger jobs",
+      "text": ""
+    },
+    {
+      "icon": "",
+      "name": "Contractor Management for larger jobs",
+      "text": ""
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "",
+      "text": "",
+      "name": "Diane M. - Paris resident"
+    },
+    {
+      "img": "",
+      "text": "",
+      "name": "Erin and Julie - Co-owners of The Fawn Collective"
+    },
+    {
+      "img": "",
+      "text": "",
+      "name": "Susan Wright - Stratford resident"
+    },
+    {
+      "img": "",
+      "text": "",
+      "name": "Anthony Lewis - Stratford resident"
+    }
+  ],
+  "Team": [
+    {
+      "img": "",
+      "name": "Ed Niewinski  P.Eng.",
+      "job": "Owner"
+    }
+  ],
+  "Contact": {
+    "address": "New Dundee, ON",
+    "phone": "519 570 6400",
+    "email": "educatedguess99@outlook.com",
+    "facebook": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    }
+  ]
 }

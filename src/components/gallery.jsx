@@ -9,7 +9,7 @@ export class Gallery extends Component {
       { image: "20200802_095636_resized_1.jpg", name: "Salon" },
       { image: "20200802_100608_resized_1.jpg", name: "Salon" },
       { image: "20200802_100618_resized_1.jpg", name: "Salon" },
-      { image: "20200810_160339_resized.jpg", name: "Salon" },
+      { image: "20200810_160339_resized.jpg", name: "Laundry" },
       { image: "20200810_160451_resized.jpg", name: "Bathroom" },
       { image: "DSC03032.JPG", name: "Bathroom" },
       { image: "DSC03042.JPG", name: "Bathroom" },

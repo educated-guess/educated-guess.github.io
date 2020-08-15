@@ -4,7 +4,12 @@
     "paragraph": "No job is too small, so please take a look at the services offered and give me a call."
   },
   "About": {
-    "paragraph": "I am a registered professional engineer with over 40 years in the manufacturing industry in executive positions.  I have been a handyman for most of my career, doing various basement renovations, bathroom renovations etc.  I have recently managed a complete renovation of a hair salon, undertaking a majority of the work myself (see the Gallery tab).  I have also upgraded my mother's house for resale recently, achieving an offer price far above asking.\n\nIn an attempt to help seniors stay in place, I am focusing my services to the seniors community, and offering my services for $40 per hour, plus. expenses (as approved) and HST.\nEducated Guess is the \"operating as\" name for the Ontario incorporated company Blackburn Development Corporation.\n\nEducated Guess has a $2 million general liability insurance policy in place, so that we are all protected.",
+    "paragraph": [
+      "I am a registered professional engineer with over 40 years in the manufacturing industry in executive positions.  I have been a handyman for most of my career, doing various basement renovations, bathroom renovations etc.  I have recently managed a complete renovation of a hair salon, undertaking a majority of the work myself (see the Gallery tab).  I have also upgraded my mother's house for resale recently, achieving an offer price far above asking.",
+      "In an attempt to help seniors stay in place, I am focusing my services to the seniors community, and offering my services for $40 per hour, plus. expenses (as approved) and HST.",
+      "Educated Guess is the \"operating as\" name for the Ontario incorporated company Blackburn Development Corporation.",
+      "Educated Guess has a $2 million general liability insurance policy in place, so that we are all protected."
+    ],
     "Why": ["Fully Insured", "Decades of Experience", "Reasonably Priced"],
     "Why2": []
   },
@@ -16,107 +21,102 @@
     },
     {
       "icon": "",
-      "name": "replace baseboards",
+      "name": "Replace Baseboards",
       "text": ""
     },
     {
       "icon": "",
-      "name": "change light fixtures",
+      "name": "Change Light Fixtures",
       "text": ""
     },
     {
       "icon": "",
-      "name": "change receptacles and switches",
+      "name": "Change Receptacles and Switches",
       "text": ""
     },
     {
       "icon": "",
-      "name": "basic electrical work",
+      "name": "Bathroom renos",
       "text": ""
     },
     {
       "icon": "",
-      "name": "bathroom reno's",
+      "name": "Tile Work (floor, backsplash, shower etc)",
       "text": ""
     },
     {
       "icon": "",
-      "name": "tile work (floor, backsplash, shower etc)",
+      "name": "Yard Work - Misc",
       "text": ""
     },
     {
       "icon": "",
-      "name": "yard work - misc",
+      "name": "Vinyl Flooring Installation",
       "text": ""
     },
     {
       "icon": "",
-      "name": "vinyl flooring installation",
+      "name": "Misc Repair Work",
       "text": ""
     },
     {
       "icon": "",
-      "name": "misc repair work",
+      "name": "Toilet Replacement",
       "text": ""
     },
     {
       "icon": "",
-      "name": "toilet replacement",
+      "name": "Sink/Vanity Replacement",
       "text": ""
     },
     {
       "icon": "",
-      "name": "sink/vanity replacement",
+      "name": "Home Updating Work for Resale",
       "text": ""
     },
     {
       "icon": "",
-      "name": "home updating work for resale",
+      "name": "Door Hardware Replacement",
       "text": ""
     },
     {
       "icon": "",
-      "name": "door hardware replacement",
+      "name": "Laundry Room Upgrades (cabinets, sinks, flooring etc)",
       "text": ""
     },
     {
       "icon": "",
-      "name": "laundry room upgrades (cabinets, sinks, flooring etc)",
+      "name": "General Installation Work",
       "text": ""
     },
     {
       "icon": "",
-      "name": "general installation work",
+      "name": "Assemble Furniture, Cabinets etc",
       "text": ""
     },
     {
       "icon": "",
-      "name": "assemble furniture, cabinets etc",
+      "name": "Counter Top Replacement",
       "text": ""
     },
     {
       "icon": "",
-      "name": "counter top replacement",
+      "name": "Demo Work",
       "text": ""
     },
     {
       "icon": "",
-      "name": "demo work",
+      "name": "Basement Updates",
       "text": ""
     },
     {
       "icon": "",
-      "name": "basement updates",
+      "name": "Power Wash and Stain Decks and Fences",
       "text": ""
     },
     {
       "icon": "",
-      "name": "power wash and stain decks and fences",
-      "text": ""
-    },
-    {
-      "icon": "",
-      "name": "tire replacement on site (winter and summer tires on rims)",
+      "name": "Tire Replacement on Site (Winter and Summer Tires on Rims)",
       "text": ""
     },
     {
@@ -133,23 +133,26 @@
   "Testimonials": [
     {
       "img": "",
-      "text": "",
-      "name": "Diane M. - Paris resident"
+      "text": "Ed was the perfect addition to our open, as we could have never done it without him. With having no idea where to start with the renovations, he effortlessly managed beginning to end. From coordinating and assembling our furniture deliveries, to managing our plumbing and electrical trades - there was no task he couldn’t handle. We even had a surprise leak that he fixed, leaving us with a worry-free mindset. We absolutely recommend Ed and will absolutely work with him for future maintenance of our space as he has always been reliable, trustworthy and efficient. ",
+      "name": "Erin and Julie - Owners of The Fawn Collective, hair lounge, Waterloo"
     },
+
     {
       "img": "",
-      "text": "",
-      "name": "Erin and Julie - Co-owners of The Fawn Collective"
+      "text": "Very pleased with his professionalism and the quality of Ed's work.  Happy to recommend -- great service and helped us find ideas that worked in our space. High-quality work, very reasonable prices, did an excellent job.",
+      "name": "Patti, Stratford"
     },
+
     {
       "img": "",
-      "text": "",
-      "name": "Susan Wright - Stratford resident"
+      "text": "I was in that \"end of a renovation\" state when Ed showed up to help me with all of the finishing touches. It really helped me settle in and made the house functional again.",
+      "name": "Susan, Stratford"
     },
+
     {
       "img": "",
-      "text": "",
-      "name": "Anthony Lewis - Stratford resident"
+      "text": "In 2018 I needed some major renovations done to my condo and Ed was the handyman who did it all.   I found him to be conscientious, professional and knowledgeable.    I wouldn't hesitate to use him again or recommend him to my friends.",
+      "name": "Diane, Paris"
     }
   ],
   "Team": [

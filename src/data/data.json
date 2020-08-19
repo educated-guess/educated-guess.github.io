@@ -5,10 +5,10 @@
   },
   "About": {
     "paragraph": [
-      "I am a registered professional engineer with over 40 years in the manufacturing industry in executive positions.  I have been a handyman for most of my career, doing various basement renovations, bathroom renovations etc.  I have recently managed a complete renovation of a hair salon, undertaking a majority of the work myself (see the Gallery tab).  I have also upgraded my mother's house for resale recently, achieving an offer price far above asking.",
-      "In an attempt to help seniors stay in place, I am focusing my services to the seniors community, and offering my services for $40 per hour, plus. expenses (as approved) and HST.",
-      "Educated Guess is the \"operating as\" name for the Ontario incorporated company Blackburn Development Corporation.",
-      "Educated Guess has a $2 million general liability insurance policy in place, so that we are all protected."
+      "I am a retired registered professional engineer with over 40 years in the manufacturing industry in various executive positions.  Throughout my career I have been a handyman doing various basement renovations, bathroom renovations etc.  I have recently managed a complete renovation of an upscale hair salon, undertaking a majority of the work myself (see Gallery tab).  I also upgraded my mother’s bungalow for resale recently, achieving an offer price far above asking.",
+      "In an attempt to help seniors stay in place, I am focusing my services to the seniors’ community, offering my services for $40 per hour, plus expenses (as approved) and HST.",
+      "Educated Guess has a $2 million general liability insurance policy in place, so that we are all protected.",
+      "Educated Guess is the “operating as” name for the Ontario incorporated company Blackburn Development Corporation."
     ],
     "Why": ["Fully Insured", "Decades of Experience", "Reasonably Priced"],
     "Why2": []
@@ -16,107 +16,97 @@
   "Services": [
     {
       "icon": "",
-      "name": "Painting",
+      "name": "Interior painting",
       "text": ""
     },
     {
       "icon": "",
-      "name": "Replace Baseboards",
+      "name": "Trim work (baseboards, window/door trim)",
       "text": ""
     },
     {
       "icon": "",
-      "name": "Change Light Fixtures",
+      "name": "Tiling – backsplash, floor, shower etc.",
       "text": ""
     },
     {
       "icon": "",
-      "name": "Change Receptacles and Switches",
+      "name": "Countertop replacement",
       "text": ""
     },
     {
       "icon": "",
-      "name": "Bathroom renos",
+      "name": "Vinyl flooring installation and repair",
       "text": ""
     },
     {
       "icon": "",
-      "name": "Tile Work (floor, backsplash, shower etc)",
+      "name": "Drywall installation and repair",
       "text": ""
     },
     {
       "icon": "",
-      "name": "Yard Work - Misc",
+      "name": "Taps, toilet, sink, vanity installation",
       "text": ""
     },
     {
       "icon": "",
-      "name": "Vinyl Flooring Installation",
+      "name": "Cabinet installation",
       "text": ""
     },
     {
       "icon": "",
-      "name": "Misc Repair Work",
+      "name": "Changing light fixtures, receptacles and switches",
       "text": ""
     },
     {
       "icon": "",
-      "name": "Toilet Replacement",
+      "name": "Door hardware replacement",
       "text": ""
     },
     {
       "icon": "",
-      "name": "Sink/Vanity Replacement",
+      "name": "Assembling furniture, cabinets etc.",
       "text": ""
     },
     {
       "icon": "",
-      "name": "Home Updating Work for Resale",
+      "name": "Hanging pictures/shelves, curtain rods",
       "text": ""
     },
     {
       "icon": "",
-      "name": "Door Hardware Replacement",
+      "name": "Power washing and staining decks/fences",
       "text": ""
     },
     {
       "icon": "",
-      "name": "Laundry Room Upgrades (cabinets, sinks, flooring etc)",
+      "name": "Tire replacement on-site (winter/summer on rims)",
       "text": ""
     },
     {
       "icon": "",
-      "name": "General Installation Work",
+      "name": "Home updating work for resales",
       "text": ""
     },
     {
       "icon": "",
-      "name": "Assemble Furniture, Cabinets etc",
+      "name": "General installation work",
       "text": ""
     },
     {
       "icon": "",
-      "name": "Counter Top Replacement",
+      "name": "Yard work",
       "text": ""
     },
     {
       "icon": "",
-      "name": "Demo Work",
+      "name": "Demo work",
       "text": ""
     },
     {
       "icon": "",
-      "name": "Basement Updates",
-      "text": ""
-    },
-    {
-      "icon": "",
-      "name": "Power Wash and Stain Decks and Fences",
-      "text": ""
-    },
-    {
-      "icon": "",
-      "name": "Tire Replacement on Site (Winter and Summer Tires on Rims)",
+      "name": "Miscellaneous repair work",
       "text": ""
     },
     {

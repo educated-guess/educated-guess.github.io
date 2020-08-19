@@ -17,6 +17,10 @@ export class Gallery extends Component {
       { image: "ErinsRoomMarch.jpg", name: "Living Room" },
       { image: "LaundryRoom3.jpg", name: "Laundry" },
       { image: "LaundryRoom.jpg", name: "Laundry" },
+      { image: "20200817_100448_resized.jpg", name: "Tile Floor" },
+      { image: "20200817_100705_resized.jpg", name: "Mantel" },
+      { image: "20200817_100725_resized.jpg", name: "Roller Blinds" },
+      { image: "20200817_100836_resized.jpg", name: "Backsplash" },
     ],
   };
   render() {
